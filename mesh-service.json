@@ -1,0 +1,7 @@
+{
+  "$schema": "https://baditaflorin.github.io/mesh-common/mesh-service.schema.json",
+  "id": "mesh-choice-board",
+  "category": "Decisions",
+  "subcategory": "Selection & ranking",
+  "useCases": ["prioritization", "workshops", "small groups"]
+}
