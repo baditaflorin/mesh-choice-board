@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "app": "mesh-choice-board",
+  "sourceCommit": "2c0617916840d9d36f8aabe360ee8a3d5fb14c52",
+  "releaseCommit": "2c0617916840d9d36f8aabe360ee8a3d5fb14c52",
+  "meshCommonCommit": "025f7ff72e50c4b54a3f4a2d8c88f4f600dec78f",
+  "recordedAt": "2026-08-26T19:25:21Z"
+}
